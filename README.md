@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **PParkJy/PParkJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Jiyeon Park 🧸    
+I'm M.S. candidate student of ICT Convergence System Engineering, Chonnam National Univ.    
+- 🔭 I’m currently working on <a href="http://cctl.jnu.ac.kr">CICL</a>.    
+- 🌱 I’m currently learning about Communication system, Error Correcting Code, DNA storage.    
+- 💬 Ask me about anything with <a href="wldus8677@gmail.com">email</a>.
+
+
+<!-- ### Interest 💻 -->
+  
