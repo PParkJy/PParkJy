@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
   
 ## Jiyeon Park 🧸 
-**I'm M.S. candidate student of ICT Convergence System Engineering, Chonnam National University.**
+### I'm M.S. candidate student of ICT Convergence System Engineering, Chonnam National University.
 
 - 🔭 I’m currently working on <a href="http://cctl.jnu.ac.kr">CICL</a>.    
 - 🌱 I’m currently learning about Communication system, Error Correcting Code, DNA storage.    
