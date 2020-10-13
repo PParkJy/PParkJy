@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 #### OS✨
 | Linux | MacOS |
 | :---: | :---: |
-| <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <img src="https://user-images.githubusercontent.com/46422952/94992266-cbbf3700-05c3-11eb-8c19-4d7dc4a3479d.jpeg" width="40" height="30"> |
+| <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> | <img src="https://user-images.githubusercontent.com/46422952/94992266-cbbf3700-05c3-11eb-8c19-4d7dc4a3479d.jpeg" width="40" height="30"> |
