@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
   
-## Jiyeon Park 🧸 
+## Jiyeon Park 🐈 
 ### I'm M.S. candidate student of ICT Convergence System Engineering, Chonnam National University.
 
 - 🔭 I’m currently working on <a href="http://cctl.jnu.ac.kr">CICL</a>.    
