@@ -1,9 +1,4 @@
-
-<!--
-**PParkJy/PParkJy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=#FACFC7&height=300&section=header&text=test%20render&fontSize=90)    
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=75&section=header)    
 
 ## Jiyeon Park 🐈 
 ### I'm M.S. candidate student of ICT Convergence System Engineering, Chonnam National University.
@@ -15,7 +10,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/PParkJy)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/_jiyeoninit_/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](http://pparkjy.github.io/) or wldus8677@gmail.com    
 
 
-
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=75&section=footer)  
 
 
 
