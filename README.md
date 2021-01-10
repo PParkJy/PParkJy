@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=F7CAC9&height=75&section=header&text=Hello_World!&fontColor=424040&fontSize=30)    
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7CAC9&height=100&section=header&text=Hello_World!&fontColor=424040&fontSize=20)    
 
 <p align = "center"><b>Jiyeon Park</b></p>
 <p align = "center"><b>M.S. candidate of <a href="http://cctl.jnu.ac.kr">CICL</a>, a lazy programmer🐾</b></p>
@@ -6,7 +6,7 @@
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PParkJy&layout=compact&theme=gruvbox&repo=github-readme-stats" /></p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=75&section=footer)  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=100&section=footer)  
 
 
 
