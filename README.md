@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F7CAC9&height=70&section=header)    
 
-<p align = "center"><b>Jiyeon Park</b> ( •̀ ω •́ )y</p>    
+<p align = "center" ><b>Jiyeon Park</b> ( •̀ ω •́ )y</p>    
 
 <p align = "center"><i>M.S. candidate of <a href="http://cctl.jnu.ac.kr">CICL</a>, a lazy programmer🐾</i></p>
 
@@ -18,7 +18,7 @@
 
 <p align = "center">— ฅ(●'◡'●)ฅ —</p>
 
-<p align = "center"> <a href="https://pparkjy.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white&"/></a> <a href="https://www.instagram.com/_jiyeoninit_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a> <a href="mailto:wldus8677@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&"/></a> </p>
+<p align = "center"> <a href="https://pparkjy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white&"/></a> <a href="https://www.instagram.com/_jiyeoninit_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a> <a href="mailto:wldus8677@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&"/></a> </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=70&section=footer)  
 
