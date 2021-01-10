@@ -18,7 +18,7 @@
 
 <p align = "center">— ฅ(●'◡'●)ฅ —</p>
 
-<p align = "center"> <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white?link=https://pparkjy.github.io/"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white?link=https://www.instagram.com/_jiyeoninit_/"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white?link=mailto:wldus8677@gmail.com"/> </p>
+<p align = "center"> <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white&?link=https://pparkjy.github.io/&"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&?link=https://www.instagram.com/_jiyeoninit_/&"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&?link=mailto:wldus8677@gmail.com&"/> </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=70&section=footer)  
 
