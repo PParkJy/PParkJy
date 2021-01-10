@@ -10,11 +10,11 @@
 
 <p align = "left"> <img src="https://img.shields.io/badge/Interest-F7CAC9?style=for-the-badge&"/> <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-15b35b?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> </p>
 
-<p align = "center">—</p>
-
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PParkJy&layout=compact&theme=gruvbox&repo=github-readme-stats"/></p>
 
-<p align = "center">ฅ(●'◡'●)ฅ</p>
+<p align = "center">— ฅ(●'◡'●)ฅ —</p>
+
+<p align = "center"> <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=Github&logoColor=white&link=https://pparkjy.github.io/"/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jiyeoninit_/"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldus8677@gmail.com"/> </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=75&section=footer)  
 
