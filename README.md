@@ -12,7 +12,7 @@
 
 <p align = "left"> <img src="https://img.shields.io/badge/Interest-F7CAC9?style=for-the-badge&"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=flat-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-15b35b?style=flat-square&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Big%20Data-E25A1C?style=flat-square&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/Embedded-00979D?style=flat-square&logo=arduino&logoColor=white"/> </p>
 
-<img src="https://img.shields.io/badge/etc-F7CAC9?style=for-the-badge&"/> &nbsp;&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PParkJy&layout=compact&repo=github-readme-stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PParkJy&layout=compact&repo=github-readme-stats"/>
 
 </br>
 
