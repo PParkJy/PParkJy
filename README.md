@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F7CAC9&height=70&section=header&text=Jiyeon%20Park&fontColor=88807C&fontSize=20)    
  
-<p align = "center"><i>M.S. candidate of <a href="http://cctl.jnu.ac.kr">CICL</a>, a lazy programmer</i> ( •̀ ω •́ )y</p>
+<p align = "center"><i>M.S. candidate of <a href="http://cctl.jnu.ac.kr">CICL</a>, a lazy programmer</i>( •̀ ω •́ )y</p>
 
 </br>
 
