@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F7CAC9&height=70&section=header&text=Jiyeon%20Park&fontColor=88807C&fontSize=20)    
  
-<p align = "center"><i>M.S. candidate of <a href="http://cctl.jnu.ac.kr">CICL</a>, ( •̀ ω •́ )y</p>
-
-</br>
 
 <p align = "left"> <img src="https://img.shields.io/badge/Research%20Area-88807C?style=for-the-badge&"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Channel%20Coding-FF6F61?style=flat-square&"/> <img src="https://img.shields.io/badge/Deep%20Learning-D00000?style=flat-square&"/> <img src="https://img.shields.io/badge/5G%20Communication-4765DC?style=flat-square&"/> <img src="https://img.shields.io/badge/Bioinformatics-2CBF3D?style=flat-square&"/></p>
 
