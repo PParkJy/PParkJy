@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=F7CAC9&height=70&section=header&text=Jiyeon%20Park&fontColor=88807C&fontSize=20)    
  
-<p align = "center"><i>M.S. candidate of <a href="http://cctl.jnu.ac.kr">CICL</a>, a lazy programmer</i> ( •̀ ω •́ )y</p>
+<p align = "center"><i>M.S. candidate of <a href="http://cctl.jnu.ac.kr">CICL</a>, ( •̀ ω •́ )y</p>
 
 </br>
 
@@ -17,8 +17,6 @@
 </br>
 
 <p align = "center">— ฅ(●'◡'●)ฅ —</p>
-
-<p align = "center"> <a href="https://pparkjy.github.io/" target="_blank"><img src="https://img.shields.io/badge/Dev Blog-181717?style=flat-square&logo=Github&logoColor=white&"/></a> <a href="https://blog.naver.com/masterjy98" target="_blank"><img src="https://img.shields.io/badge/Personal Blog-FA8072?style=flat-square&logo=Github&logoColor=white&"/></a> <a href="https://www.instagram.com/_jiyeoninit_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&"/></a> <a href="mailto:wldus8677@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&"/></a> </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=70&section=footer)  
 
