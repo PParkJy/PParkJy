@@ -13,8 +13,6 @@
 
 </br>
 
-<p align = "center">— ฅ(●'◡'●)ฅ —</p>
-
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=92A8D1&height=70&section=footer)  
 
 
