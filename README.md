@@ -1,9 +1,10 @@
 ## Interests
-- Wireless communications (B5G/6G) 
+- **Wireless communications (B5G/6G)**
   - Channel coding
     
-- Bioinformatics
-  - DNA storage & computing
+- **Bioinformatics**
+  - DNA storage
+  - DNA computing
     
-- Deep learning
+- **Deep learning**
   - LLM
