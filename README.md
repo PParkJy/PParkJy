@@ -7,4 +7,4 @@
   - DNA computing
     
 - **Deep learning**
-  - LLM
+  - Language model
